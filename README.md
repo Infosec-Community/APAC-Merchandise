@@ -2,7 +2,7 @@
 
 A public archiving of merchandise from the APAC Information Security scene
 
-Currently the following pieces of information are being archived activly:
+Currently the following pieces of information are being archived actively:
 
 - Conference Stickers
 - Conference Books
