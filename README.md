@@ -15,6 +15,7 @@ Currently the following pieces of information are being archived actively:
 |------------------------------------------------------|------------------------------------------------|------     |
 | ![alt text](stickers/bsidesperth-organiser.jpg)      | BSidesPerth CTF organisers sticker             | 2019      |
 | ![alt text](stickers/bugcrowd-logo.jpg)              | Bugcrowd Logo                                  | Unknown   |
+| ![alt text](stickers/busfactor-sticker.jpg)          | The Bus Factor Secuirty Podcast Sticker        | Unknown   |
 | ![alt text](stickers/certnz-2factor-2019.jpg)        | Cert NZ 2factor sticker                        | 2019      |
 | ![alt text](stickers/firefox-logo.jpg)               | Firefox Logo                                   | Unknown   |
 | ![alt text](stickers/hhh-bsidescbr-2017.jpg)         | Hackers Helping Hackers BsidesCBR Logo         | 2017      |
@@ -46,3 +47,4 @@ Currently the following pieces of information are being archived actively:
 | BSidesPerth  | 2018 | [Link](conferenceBooks/bsidesperth-2018/) |
 | Kiwicon      | 2016 | [Link](conferenceBooks/kiwicon-2016/)     |
 | Wahckon      | 2016 | [Link](conferenceBooks/wahckon-2016/)     |
+| Wahckon      | 2017 | [Link](conferenceBooks/wahckon-2017/)     |
