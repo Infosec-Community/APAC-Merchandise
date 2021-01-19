@@ -15,11 +15,15 @@ Currently the following pieces of information are being archived actively:
 |------------------------------------------------------|------------------------------------------------|------     |
 | ![alt text](stickers/bsidesperth-organiser.jpg)      | BSidesPerth CTF organisers sticker             | 2019      |
 | ![alt text](stickers/bugcrowd-logo.jpg)              | Bugcrowd Logo                                  | Unknown   |
-| ![alt text](stickers/busfactor-sticker.jpg)          | The Bus Factor Secuirty Podcast Sticker        | Unknown   |
+| ![alt text](stickers/busfactor-sticker-001.png)          | The Bus Factor Security Podcast Sticker        | 2018  |
+| ![alt text](stickers/busfactor-sticker-002.png)          | The Bus Factor Security Podcast Sticker        | 2019   |
 | ![alt text](stickers/certnz-2factor-2019.jpg)        | Cert NZ 2factor sticker                        | 2019      |
 | ![alt text](stickers/firefox-logo.jpg)               | Firefox Logo                                   | Unknown   |
 | ![alt text](stickers/hhh-bsidescbr-2017.jpg)         | Hackers Helping Hackers BsidesCBR Logo         | 2017      |
-| ![alt text](stickers/kakacon-full-2018.jpg)          | Kakacon #0 Sticker                             | 2018      |
+| ![alt text](stickers/kakacon-sticker-2018.png)          | Kakacon #0 Sticker                             | 2018      |
+| ![alt text](stickers/kakacon-sticker-2019.png)          | Kakacon #1 Sticker                             | 2019      |
+| ![alt text](stickers/kakacon-sticker-2020.png)          | Kakacon #2 Sticker                             | 2020      |
+| ![alt text](stickers/kakacon-pin-2020.jpg)          | Kakacon #2 Pin (Art by [Pepper Raccoon](https://twitter.com/pepperraccoon/))                            | 2020      |
 | ![alt text](stickers/kawaiicon-full-2019.jpg)        | Kawaiicon Standard Sticker Page                | 2019      |
 | ![alt text](stickers/kawaiicon-logo-2019.jpg)        | Kawaiicon Logo Sticker                         | 2019      |
 | ![alt text](stickers/kawaiicon-stickerpage-2019.jpg) | Kawaiicon Holographic Sticker Page             | 2019      |
